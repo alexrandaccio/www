@@ -46,7 +46,7 @@ Moreover, what is it that we wish to accomplish when we demand transparency of i
 
 To unpack this thesis further I need to explain exactly what I mean by *legitimate authority*.
 
-## Legitimate Authority is Rooted in Community
+## Legitimate Authority is Rooted in the Ground
 
 Many [discussions of institutional legitimacy](https://journals.sagepub.com/doi/pdf/10.1177/0032321716667956) fixate on two analyses: process legitimacy and outcome legitimacy. The first asks whether an institution follows the satisfactory processes to reach its decisions – whether it dots its i’s and crosses its t’s, so to speak. The second asks whether the institution’s actions have desirable consequences – whether it delivers the goods.
 
